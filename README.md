@@ -1,6 +1,6 @@
 # Task-Tracker-CLI
 
-### Project page URL: https://github.com/Varshiniloganathan/Task-Tracker-CLI
+### Project page URL: [https://github.com/Varshiniloganathan/Task-Tracker-CLI](https://roadmap.sh/projects/task-tracker)
 ## Clone the repository:
 
 git clone https://github.com/Varshiniloganathan/Task-Tracker-CLI.git
