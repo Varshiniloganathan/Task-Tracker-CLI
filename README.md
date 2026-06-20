@@ -35,11 +35,17 @@ task-cli list
 ### List Tasks by Status
 
 task-cli list done
+
 task-cli list todo
+
 task-cli list in-progress
 
 ### Example
+
 task-cli add "Complete Node.js project"
+
 task-cli mark-in-progress 1
+
 task-cli mark-done 1
+
 task-cli list
